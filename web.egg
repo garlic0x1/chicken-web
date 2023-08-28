@@ -1,0 +1,5 @@
+((author "garlic")
+ (components
+  (extension web.globby)
+  (extension web)
+  ))
